@@ -67,20 +67,55 @@ ul, h3 {
 }
 
 
+.box-black {
+  width: 100%;
+  height: 600px;
+/*  background: black;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-blue {
+  width: 200px;
+  height: 200px;
+  background: blue;
+}
+
+.box-white {
+  width: 200px;
+  height: 300px;
+  background: white;
+}
+
+.box-red {
+  width: 200px;
+  height: 200px;
+  background: red;
+}
 
 
+.logo {
+  height: 70px;
+}
 
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+}
 
+.links {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
 
-
-
-
-
-
-
-
-
-
+.link {
+  background: white;
+  color: black;
+}
 
 
 
