@@ -1,0 +1,87 @@
+body {
+  font-family: arial;
+  text-align: center;
+  background: #333333;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #dd1818, #333333);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.img0 {
+  border: 10px solid green;
+  border-radius: 50%;
+  object-fit: cover;
+  height: 300px;
+  width: 300px;
+  box-shadow: 5px 5px 10px grey;
+}
+
+.img0:hover {
+  width: 400px;
+  height: 400px;
+}
+
+
+h1 {
+  color: white;
+  font-size: 38px;
+  font-family: 'Akronim', cursive;
+}
+
+p {
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  background: green;
+  color: white;
+}
+
+a:hover {
+  background: red;
+}
+
+
+ul, h3 {
+  text-align: left;
+}
+
+
+.suggestion {
+  object-fit: cover;
+  height: 300px;
+  width: 300px;
+  box-shadow: 5px 5px 10px grey;
+}
+
+.border-red {
+  border: 10px solid red;
+}
+
+.cadre {
+  border: 10px solid blue;
+  background: white;
+  margin: 150px;
+  padding: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
